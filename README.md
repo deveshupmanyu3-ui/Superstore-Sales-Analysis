@@ -89,7 +89,7 @@ Superstore-Sales-Analysis/
 ---
 
 ## 📊 Dashboard Preview
-*(Add screenshot of your Power BI dashboard here)*
+
 
 ---
 
@@ -102,6 +102,6 @@ Superstore-Sales-Analysis/
 ---
 
 ## 👤 Author
-**Your Name**
-- LinkedIn: linkedin.com/in/yourprofile
-- Email: youremail@gmail.com
+**DEVESH UPMANYU**
+- LinkedIn: www.linkedin.com/in/devesh-upmanyu
+- Email: dsprince1604@gmail.com
