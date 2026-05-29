@@ -18,20 +18,20 @@ data-driven recommendations to improve profitability.
 ---
 
 ## 📂 Project Structure
-```
 Superstore-Sales-Analysis/
 │
-├── superstore_cleaned.csv       # Cleaned dataset
-├── superstore_analysis.ipynb    # Python analysis notebook
-├── superstore.pbix              # Power BI dashboard
-├── charts/
-│   ├── sales_by_region.png
-│   ├── profit_by_category.png
-│   ├── profit_by_subcategory.png
-│   ├── monthly_sales_trend.png
-│   └── discount_vs_profit.png
+├── Superstore_Sales_Analysis.ipynb  # Python analysis notebook
+├── SQL_DATABASE.ipynb               # SQL queries notebook
+├── superstore_cleaned.csv           # Cleaned dataset
+├── superstore.db                    # SQLite database
+├── superstore sales analysis.pbix   # Power BI dashboard
+├── dashboard_preview.png            # Dashboard screenshot
+├── sales_by_region.png              # Sales by region chart
+├── profit_by_category.png           # Profit by category chart
+├── profit_by_subcategory.png        # Profit by sub-category chart
+├── monthly_sales_trend.png          # Monthly sales trend chart
+├── discount_vs_profit.png           # Discount vs profit chart
 └── README.md
-```
 
 ---
 
