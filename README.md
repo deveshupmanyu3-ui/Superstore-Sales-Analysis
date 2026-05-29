@@ -90,6 +90,7 @@ Superstore-Sales-Analysis/
 
 ## 📊 Dashboard Preview
 
+<img width="1159" height="656" alt="Screenshot 2026-05-29 114113" src="https://github.com/user-attachments/assets/818c324d-52c0-4727-bdce-e92ce7e392a2" />
 
 ---
 
